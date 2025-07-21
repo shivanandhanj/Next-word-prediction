@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. Deep learning uses neural networks with multiple layers to model complex patterns. Natural language processing enables computers to understand human language.

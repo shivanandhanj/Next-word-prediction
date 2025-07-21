@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.6.0
+datasets>=2.10.0
+numpy
+scikit-learn
+tqdm
+flwr>=1.4.0
